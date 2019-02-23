@@ -1,5 +1,7 @@
-function fn({
-    "name": "Vlad",
-    "lastName": "Dracula",
-    "age": "749"
-})
+[
+	{
+		"name": "Vlad",
+		"lastName": "Dracula",
+		"age": "749"
+	}
+]
